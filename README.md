@@ -1,7 +1,8 @@
 ### Hi there, My name is Daniel Omesi 👋
 ## I am a 2nd year student at the Academic College of Tel Aviv-Yafo.
 
--🌱 I'm currently studying cpp in college, I have additional knowledge in other languages such as c,c#,python,java.
+-🌱 I'm currently studying C# and Linux in college.
+-🔭 I have prior knowledge in C,C++ and Python. You are welcome to look around at some of my code work, on and off college.
 
 - 📫 How to reach me: [Gmail](omesidaniel@gmail.com) [Linkedin](https://www.linkedin.com/in/daniel-omesi/)
 
