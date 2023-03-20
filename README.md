@@ -3,7 +3,7 @@
 
 -🌱 I'm currently studying C# and Linux in college.
 
--🔭 I am familiar C,C++ and Python. You are welcome to look around at some of my code work, on and off college.
+-🔭 I am familiar with C,C++ and Python. You are welcome to look around at some of my code work, on and off college.
 
 - 📫 How to reach me: [Gmail](omesidaniel@gmail.com) [Linkedin](https://www.linkedin.com/in/daniel-omesi/)
 
