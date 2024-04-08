@@ -1,8 +1,10 @@
 
 ## 🚀 About Me
-24 y/o
+25 y/o
 
-2nd Year Student at The Academic College of Tel Aviv-Yafo.
+Student at The Academic College of Tel Aviv-Yafo.
+
+Expected Graduation: August 2025
 
 
 ## 🛠 Skills
