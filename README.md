@@ -1,6 +1,5 @@
 
 ## 🚀 About Me
-25 y/o
 
 Student at The Academic College of Tel Aviv-Yafo.
 
