@@ -3,7 +3,7 @@
 
 Student at The Academic College of Tel Aviv-Yafo.
 
-Expected Graduation: August 2025
+Expected Graduation: Summer 2025
 
 
 ## 🛠 Skills
