@@ -1,9 +1,8 @@
 
 ## 🚀 About Me
 
-Student at The Academic College of Tel Aviv-Yafo.
-
-Expected Graduation: Summer 2025
+Computer Science professional completing my final project at The Academic College of Tel Aviv-Yafo.
+✅ Coursework completed (119 credits) | Final project due October 2025
 
 
 ## 🛠 Skills
@@ -14,9 +13,9 @@ TypeScript, Javascript, HTML, CSS
 
 ## For Your Information
 
-🧠 I'm currently learning some coding languages by myself
+💡 Currently exploring new technologies and sharpening my coding skills.
 
-🤔 I'm looking for a software engineer internship position
+💼 Open to full-time software engineering roles.
 
-💬 Hope to see you looking around at my work
+🔍 Feel free to check out my projects!
 
