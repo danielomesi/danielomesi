@@ -2,6 +2,7 @@
 ## 🚀 About Me
 
 Computer Science professional completing my final project at The Academic College of Tel Aviv-Yafo.
+
 ✅ Coursework completed (119 credits) | Final project due October 2025
 
 
