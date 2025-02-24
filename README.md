@@ -1,10 +1,7 @@
 
 ## 🚀 About Me
 
-Computer Science professional completing my final project at The Academic College of Tel Aviv-Yafo.
-
-✅ Coursework completed (119 credits) | Final project due October 2025
-
+Recently completed a BSc in Computer Science and looking for a job as a Software Engineer.
 
 ## 🛠 Skills
 C, C,++, C#, Python, Linux
