@@ -1,6 +1,7 @@
 ## 🚀 About Me
 
-Recently completed a BSc in Computer Science and looking for a job as a Software Engineer.
+I care about building software that works well and makes a real impact.
+Ready to join a team where I can grow and contribute from day one.
 
 ## 🛠 Skills
 
